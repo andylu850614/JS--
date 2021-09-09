@@ -58,7 +58,3 @@ window.onload = function () {
         }
     }
 }
-
-function a(){
-    console.log('hi')
-}
